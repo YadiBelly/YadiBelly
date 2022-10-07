@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Yadisa Belliard 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I'm+Yadisa+Belliard;Welcome+to+my+page)](https://git.io/typing-svg)
+
 
 - 👀 I’m interested in improving my coding skills
 
