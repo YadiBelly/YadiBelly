@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)
-              
-                                 About Me     
+                
 ____________________________________________________________________________
      
  👀 I’m interested in improving my coding skills
