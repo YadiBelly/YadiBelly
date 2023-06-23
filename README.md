@@ -33,4 +33,7 @@ ____________________________________________________________________________
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YadiBelly&show_icons=true&theme=radical) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
 
+ <START_SECTION:waka>
+<END_SECTION:waka>
+
 
