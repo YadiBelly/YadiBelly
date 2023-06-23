@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)
-____________________________________________________________________________
+______________________________________________________________________________________________________________________________________________
      
 🔭 I’m currently working on Full Stack Development projects
  
@@ -13,7 +13,7 @@ ____________________________________________________________________________
 
  😄 Pronouns: She/Her
 
-____________________________________________________________________
+______________________________________________________________________________________________________________________________________________
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,11 +26,11 @@ ____________________________________________________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-____________________________________________________________________________
+______________________________________________________________________________________________________________________________________________
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's
 GitHub stats](https://github-readme-stats.vercel.app/api?username=YadiBelly&show_icons=true&theme=radical) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
