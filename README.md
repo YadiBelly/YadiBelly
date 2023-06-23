@@ -1,11 +1,9 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-
-                
+</p>        
 ____________________________________________________________________________
      
 🔭 I’m currently working on Full Stack Development projects
