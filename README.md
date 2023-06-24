@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/564x/10/72/2f/10722f60716d5112d8f95f22774764aa.jpg" width="100"/>
-   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.pinimg.com/474x/ad/5a/88/ad5a88412cbf35e2150fe14e27841c6b.jpg)" width="100"/>
+   <img src="https://i.pinimg.com/474x/ad/5a/88/ad5a88412cbf35e2150fe14e27841c6b.jpg" width="100"/>
 </div>
 ______________________________________________________________________________________________________________________________________________
      
