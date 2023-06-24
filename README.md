@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)-->
+
+<div style="background-image: url('https://i.pinimg.com/564x/10/72/2f/10722f60716d5112d8f95f22774764aa.jpg'); background-size: cover; padding: 100px; text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;" alt="Typing SVG" />
+  </a>
+</div>
+
 ______________________________________________________________________________________________________________________________________________
      
 🔭 I’m currently working on Full Stack Development projects
