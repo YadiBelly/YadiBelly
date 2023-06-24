@@ -1,9 +1,10 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)-->
 
 
-<div id="header" align="center">
+<div id="header" align="center" style="background-image: url('https://i.pinimg.com/564x/42/c4/67/42c467d640670e8130d7607aa6f8250a.jpg'); background-size: cover; background-position: center; padding: 200px 0;">
   <img src="https://i.pinimg.com/564x/10/72/2f/10722f60716d5112d8f95f22774764aa.jpg" width="200"/>
 </div>
+
 ______________________________________________________________________________________________________________________________________________
      
 🔭 I’m currently working on Full Stack Development projects
