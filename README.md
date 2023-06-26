@@ -1,10 +1,9 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)-->
 
 
-<div id="header" align="center" display="flex">
-  <img src="https://i.pinimg.com/564x/10/72/2f/10722f60716d5112d8f95f22774764aa.jpg" width="130"/>
-   <img src="https://i.pinimg.com/474x/ad/5a/88/ad5a88412cbf35e2150fe14e27841c6b.jpg" width="130"/>
-</div>
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+
 ______________________________________________________________________________________________________________________________________________
      
 🔭 I’m currently working on Full Stack Development projects
