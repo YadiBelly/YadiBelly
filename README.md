@@ -51,12 +51,8 @@ ________________________________________________________________________________
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)![GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)--> 
- 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
-  </div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)![GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
   <div style="flex: 1;">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" style="width: 100%; height: auto;">
   </div>
