@@ -53,7 +53,8 @@ ________________________________________________________________________________
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
 
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kv1dmk37aqika1bsjl12c1wftct6qo0xnociy21b&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="100"/>
+ <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+
 
 
  
