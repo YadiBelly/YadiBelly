@@ -51,8 +51,17 @@ ________________________________________________________________________________
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)![GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)(https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)![GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) 
  
+
+<div style="display: flex;">
+  <div style="flex: 50%;">
+    <img src="image1.jpg" alt="Image 1" width="200px" height="200px">
+  </div>
+  <div style="flex: 50%;">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" width="200px" height="200px">
+  </div>
+</div>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's
