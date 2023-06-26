@@ -5,17 +5,6 @@
   <img src="https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa" width="400" height="200"/>
 </p>
 
-  <div align="center">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa" width="400" height="200"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" width="400" height="auto">
-</div>
-
-
-
 
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">Yadisa</a> 👋
