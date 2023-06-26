@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 <div style="display: flex;">
   <div style="flex: 50%;">
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)" alt="Image 1" width="200px" height="200px">
+    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)" alt="#" width="200px" height="200px">
   </div>
   <div style="flex: 50%;">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" width="200px" height="200px">
