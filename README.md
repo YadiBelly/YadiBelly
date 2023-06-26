@@ -56,12 +56,13 @@ ________________________________________________________________________________
 
 <div style="display: flex;">
   <div style="flex: 50%;">
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)" alt="#" width="200px" height="200px">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
   </div>
   <div style="flex: 50%;">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" width="200px" height="200px">
   </div>
 </div>
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's
