@@ -1,12 +1,13 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)-->
 
-
-
 <p align="center">
   <a href="https://www.yadibelly.dev/" target="_blank" rel="noreferrer">
   <img src="https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa" width="400" height="200"/>
-
 </p>
+
+<h3 align="center">
+Hi there, I'm <a href="https://www.Yadibelly.dev/" target="_blank" rel="noreferrer">Yadisa</a> 👋
+</h3>
 
 
 
