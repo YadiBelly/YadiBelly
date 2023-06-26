@@ -5,6 +5,7 @@
   <img src="https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa" margin:0px; display: block; width: 1000; height: 100; background-size: none; background-position: center;/>
 </p>
 
+<div style="width: 100%; height: 300px; background-image: url(https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa); background-size: cover; background-position: center;"></div>
 
 
 
