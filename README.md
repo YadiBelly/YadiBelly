@@ -57,8 +57,7 @@ ________________________________________________________________________________
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's
-GitHub stats](https://github-readme-stats.vercel.app/api?username=YadiBelly&show_icons=true&theme=radical) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YadiBelly&show_icons=true&theme=radical) 
 
 
 <!--START_SECTION:waka-->
