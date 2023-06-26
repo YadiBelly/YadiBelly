@@ -49,14 +49,9 @@ ________________________________________________________________________________
 </div>
 ________________________________________________________________________________________________________________________
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/YadiBelly/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true" />
-  </a>
-</div>
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats) 
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats) 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's
