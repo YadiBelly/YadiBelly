@@ -47,7 +47,7 @@ ________________________________________________________________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-__________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's
 GitHub stats](https://github-readme-stats.vercel.app/api?username=YadiBelly&show_icons=true&theme=radical) 
