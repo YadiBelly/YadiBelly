@@ -4,6 +4,12 @@
   <a href="#" target="_blank" rel="noreferrer">
   <img src="https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa" width="400" height="200"/>
 </p>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" style="width: 100%; height: auto;">
+  </div>
+</div>
+
+
 
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">Yadisa</a> 👋
@@ -51,13 +57,7 @@ ________________________________________________________________________________
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)![GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" style="width: 100%; height: auto;">
-  </div>
-</div>
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YadiBelly&theme=tokyonight)](https://git.io/streak-stats)![Yadisa's
