@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.canva.com/design/DAFd9P-Uj5I/8e9oRJWsqTyHTSbsbLQH7A/view?utm_content=DAFd9P-Uj5I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100"/>
+  <img src="https://www.canva.com/design/DAFd9P-Uj5I/view" width="100"/>
 </div>
 
 
