@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa" margin:0px; display: block; width: 100%; height: 100; background-size: cover; background-position: center;/>
+  <img src="https://github.com/YadiBelly/YadiBelly/assets/93412709/3e411b41-84a3-4fd8-b0fa-13e7cb9d43fa" margin:0px; display: block; width: 100%; height: 100; ;background-position: center;/>
 </p>
 
 <h3 align="center">
