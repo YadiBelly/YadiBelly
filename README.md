@@ -53,10 +53,7 @@ ________________________________________________________________________________
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)
 
- <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
-
-
-
+ 
  
 
 
