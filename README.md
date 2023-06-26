@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" width="375" height="138" style="border-radius: 70px;">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YadiBelly&hide_progress=true)](https://github.com/YadiBelly/github-readme-stats)<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GIF" width="375" height="138" style="border-radius: 70;">
 
 
 
