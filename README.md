@@ -16,8 +16,7 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Yadisa</a> 👋
 I'm a Full-Stack Web Developer 💻!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. 
 
 
 
