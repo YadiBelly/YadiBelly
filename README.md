@@ -1,7 +1,10 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)-->
 
 
-![Alt text]([image link](https://www.canva.com/design/DAFd9P-Uj5I/8e9oRJWsqTyHTSbsbLQH7A/view?utm_content=DAFd9P-Uj5I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 
 
