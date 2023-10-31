@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://github.com/YadiBelly/YadiBelly/assets/[Screenshot 2023-10-31 at 1.11.34 PM.png](https://github.com/YadiBelly/YadiBelly/blob/main/Screenshot%202023-10-31%20at%201.11.34%20PM.png?raw=true)" margin:0px; width:100%; height: 100%; ;background-position: center;/>
+  <img src="https://github.com/YadiBelly/YadiBelly/assets/ Screenshot%202023-10-31%20at%201.11.34%20PM.png?raw=tru" margin:0px; width:100%; height: 100%; ;background-position: center;/>
 </p>
 
 <h3 align="center">
