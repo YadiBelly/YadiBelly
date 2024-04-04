@@ -10,13 +10,10 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Yadisa</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Software Engineer  💻!
+Software Engineer  💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. 
-
-
-
 ___________________________________________________________________________________________________________________________________________
      
 🔭 I’m currently working on Full-Stack Development projects
@@ -30,7 +27,6 @@ ________________________________________________________________________________
  📫 How to reach me: The best way to reach me is through LinkedIn
 
  😄 Pronouns: She/Her
-
 ________________________________________________________________________________________________________________________________________________________________________
 ## 💼 Technical Skills
 
