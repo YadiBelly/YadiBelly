@@ -1,18 +1,9 @@
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+page!;)](https://git.io/typing-svg)-->
 
-<p align="center">
-  <a href="#" target="_blank" rel="noreferrer">
-  <img src="file:///Users/yadisabelliard/Downloads/%5BOriginal%20size%5D%20Turquoise%20Simple%20Modern%20Linkedin%20Banner%20(2).jpeg" margin:0px; width:100%; height: 100%; ;background-position: center;/>
-</p>
-
-<hr>
-
- <h1><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard !
-
+ <h1>
+   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard !
 </h1>
 
 <hr>
-
 <h2 align="center">
 Software Engineer  💻!
 </h2> 
