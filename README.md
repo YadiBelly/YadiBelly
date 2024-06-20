@@ -1,6 +1,5 @@
 
-### <h1 align= "center" > <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard !
-</h1>
+### <h1 align= "center" > <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard !</h1>
 
 <hr>
 <h2 align="center">
