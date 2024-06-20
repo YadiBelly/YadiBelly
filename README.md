@@ -1,6 +1,6 @@
 
-### <h1 align= "center" > <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard!</h1>
-## <h2 align="center"> Software Engineer  💻! </h2>
+ <h1 align= "center" > <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard!</h1>
+ <h2 align="center"> Software Engineer  💻! </h2>
 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. 
