@@ -7,9 +7,9 @@
 
 <hr>
 
-## <h1><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard !!&nbsp;  
+ <h1><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard !;  
 
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"></h1>
+</h1>
 
 <hr>
 
