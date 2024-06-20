@@ -7,12 +7,10 @@
 
 <hr>
 
-### <h1><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard!!&nbsp;  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"></h1>
+### <h1><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Yadisa Belliard!!&nbsp;  
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-	 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anitasilvi&theme=algolia" alt="Anitasilvi GitHub Contribution"/>
-</div>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"></h1>
+
 <hr>
 
 <h2 align="center">
